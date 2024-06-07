@@ -38,9 +38,9 @@
         },
         {
             "chainId": 84532,
-            "address": "0x7315aF6CDE7B3b18b44E9E3de50C0cC19346Bc3f",
-            "name": "USDC Mock",
-            "symbol": "USDCm",
+            "address": "0x48F69d8bf72B2C725E3b1d380178a70BD5A42785",
+            "name": "USDC",
+            "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
         }
