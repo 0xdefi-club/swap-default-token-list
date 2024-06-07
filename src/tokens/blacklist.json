@@ -1,0 +1,14 @@
+{
+  "name": "Black List",
+  "timestamp": "2024-06-07T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://dtx.trade/apple-touch-icon.png",
+  "keywords": ["blockchain", "sec", "action"],
+  "tokens": [
+  ]
+}
